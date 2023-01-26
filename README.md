@@ -4,7 +4,7 @@ A script to bypass the anti-profanity chat filter in the game MooMoo.io.
 This script allows you to type curse words in MooMoo.io, without them being censored as "Moooo". The bypass is visible for everyone, so everyone will be able to see you curse.
 ## Installation
 1. Make sure you have a userscript manager installed in your browser, such as [Tampermonkey](https://www.tampermonkey.net/) or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
-2. Click [here] to install the script
+2. Click [here](https://github.com/MooMooForge/ChatBypass/releases/latest) to install the script
 3. Enjoy!
 
 ## Usage
